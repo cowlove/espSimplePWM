@@ -1,0 +1,7 @@
+screenlog.*
+*.bin
+*.dat
+*.ver
+*.perm
+.vscode
+jimlib.h
